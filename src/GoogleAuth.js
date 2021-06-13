@@ -7,7 +7,7 @@ import Main from "./main"
 const GoogleAuth = ({ dispatch, isSignedIn, userId }) => {
 
   const {} = useLoadScript({
-    googleMapsApiKey: "AIzaSyBsZrS5LkAXAqzgVYMJQQMYOoWgYCHHZTU" // Add your API key
+    googleMapsApiKey: "AIzaSyBsZrS5LkAXAqzgVYMJQQMYOoWgYCHHZTu"
   });
 
 
