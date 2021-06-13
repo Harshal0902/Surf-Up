@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Libre+Baskerville:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+
+.home-center{
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 3.2rem;
+}
+
+p{
+    margin-top: -10px;
+    font-size: 1.4rem;
+    font-family: "Source Serif Pro", serif;
+}
+
+.Map {
+    position: absolute;
+    display: grid;
+    place-items: center;
+    top: 35%;
+    left: 18%;
+    padding-bottom: 20px;
+}

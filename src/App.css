@@ -9,24 +9,24 @@
 
 .GoogleSignIn{
   top: 50%;
-  color: rgb(39, 39, 39);
-  font-size: 1rem;
-  padding-left: 30px;
+  color: white;
+  font-size: 14px;
+  line-height: 25px;
+  padding-left: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
   border-radius: 4px;
   cursor: pointer;
+  background-color: #03a2ed;
+  /* border: none; */
 }
 
 .google-logo{
-  margin-left: -142px;
-  margin-top: -32px;
+  margin-left: -132px;
+  margin-top: -39px;
   z-index: 4;
-}
-
-.logout{
-  margin-top: -25px;
-  right: 10px;
+  background-color: white;
+  padding: 5.5px;
 }
 
 /* .App {

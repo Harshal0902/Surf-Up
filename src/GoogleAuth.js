@@ -6,7 +6,7 @@ import Main from "./main"
 
 const GoogleAuth = ({ dispatch, isSignedIn, userId }) => {
 
-  const { isLoaded } = useLoadScript({
+  const {} = useLoadScript({
     googleMapsApiKey: "AIzaSyBsZrS5LkAXAqzgVYMJQQMYOoWgYCHHZTU" // Add your API key
   });
 
@@ -56,14 +56,13 @@ const GoogleAuth = ({ dispatch, isSignedIn, userId }) => {
       return (
         <div>
           <Main />
-          <img alt="logout" onClick={onSignOutClick} src="https://img.icons8.com/flat-round/30/000000/back--v1.png" />
         </div>
       );
     } else {
       return (
         <div className="center">
           <button className="GoogleSignIn" onClick={onSignInClick}>Sign In with Google</button>
-          <img className="google-logo" src="https://img.icons8.com/fluent/20/000000/google-logo.png" />
+          <img className="google-logo" src="https://img.icons8.com/fluent/25/000000/google-logo.png" />
         </div>)
     }
   };
