@@ -33,3 +33,15 @@ Use of Google Cloud and integrating it with our web application.
 - Deploying it on the web.
 
 ## Some glimps of the site:
+Easy Sign In with Google
+![login](https://user-images.githubusercontent.com/64153988/121809622-217fcf00-cc7b-11eb-9eb5-cd008f478331.png)
+Blue Marker
+![blue marke](https://user-images.githubusercontent.com/64153988/121809625-25abec80-cc7b-11eb-8207-480e6a0e1ffa.png)
+Yellow Marker
+![yellow marker](https://user-images.githubusercontent.com/64153988/121809646-41af8e00-cc7b-11eb-98e3-022e0bf804d6.png)
+Red Marker
+![red marker](https://user-images.githubusercontent.com/64153988/121809652-44aa7e80-cc7b-11eb-9ceb-f78ab23e284e.png)
+Dialogflow Chatbot
+![chatbot](https://user-images.githubusercontent.com/64153988/121809683-6277e380-cc7b-11eb-9977-73cf08648f12.png)
+Multilanguage
+![multilanguage](https://user-images.githubusercontent.com/64153988/121809688-6572d400-cc7b-11eb-892d-bf4c90f18d95.png)
