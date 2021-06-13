@@ -1,5 +1,8 @@
 # Surf-Up
 
+## Demo video
+The demo of the project can be watched [here](https://youtu.be/B9uNnxywyNY)
+
 ## Inspiration
 Summer is here and everyone wants to relax and take a break from their busy life. And the first thing that strikes in our mind is beatches. But due to COVID, it's risky to step out without precautions. Therefore representing Surf Up, a web platform where you can check the number of COVID cases with a warning marker so that you can plan your trip safely
 
@@ -28,3 +31,5 @@ Use of Google Cloud and integrating it with our web application.
 ## What's next for Surf Up
 - Adding more batches.
 - Deploying it on the web.
+
+## Some glimps of the site:
